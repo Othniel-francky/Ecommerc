@@ -219,6 +219,11 @@ span{
 .boite h1{
     color: white;
 }
+.dernier-bloc{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 40px;
+}
 .carré1{
     height: 500px;
     width: 450px;
@@ -242,4 +247,20 @@ span{
     border: none;
     background-color: white;
     margin-left: 9px;
+}
+.peti{
+    position: absolute;
+}
+.peti button{
+    background-color: #B2914B;
+    border: none;
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+  width: 201px;
+  height: 51px;
+}
+.marque img{
+    height: 50px;
+    width: 50px;
 }
