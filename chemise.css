@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+span{
+    font-size: 45px;
+    color:  #B2914B;
+}
+.icone{
+    display: flex;
+    margin: 15px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.nav-link{
+    display: flex;
+}
+.navbar .nav-link{
+    display: flex;
+    align-items: center;
+    margin-right: 142px;
+}

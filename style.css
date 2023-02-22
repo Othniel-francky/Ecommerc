@@ -260,7 +260,78 @@ span{
   width: 201px;
   height: 51px;
 }
+.marque{
+    margin-top: 20px;
+    margin-left: 40%;
+    gap: 50%;
+}
 .marque img{
-    height: 50px;
-    width: 50px;
+    height: 90px;
+    width: 90px;
+    
+}
+footer{
+    background-color: black;
+    height: 500px;
+    margin-top: 95px;
+}
+.container{
+    display: flex;
+    gap: 15%;
+    text-align: center;
+   
+    
+    
+}
+.container h2{
+    color: #B2914B;
+}
+.container p{
+    color: white;
+}
+.email-box{
+    height: 40px;
+    display: flex;
+    justify-content: center;
+}
+.email-box i{
+    width: 40px;
+    line-height: 40px;
+    background: #B2914B;
+}
+.tbox,.btn{
+    border: none;
+    outline: none;
+}
+.tbox{
+    width: 260px;
+    padding: 0 10px;
+}
+.btn{
+    background: #B2914B;
+    color: white;
+    padding: 0 10px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+.partie1,.partie2,.partie3,.partie4{
+    margin-top: 5%;
+}
+.bloc{
+    display: flex;
+}
+.part,.parte{
+    margin-top: 4%;
+}
+.partie2 p{
+    margin-top: 8%;
+    font-size: 20px;
+}
+.partie3 p{
+    margin-top: 8%;
+    font-size: 20px;
+}
+.partie4 p{
+    margin-top: 6%;
+    font-size: 20px;
 }
