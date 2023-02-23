@@ -147,7 +147,7 @@ footer{
 }
 .container{
     display: flex;
-    gap: 15%;
+    justify-content: space-evenly;
     text-align: center;
    
     
@@ -205,4 +205,3 @@ footer{
     margin-top: 6%;
     font-size: 20px;
 }
-
