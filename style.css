@@ -52,11 +52,11 @@ span{
 .articles{
     height:auto;
     width: 80%;
-    margin: 30px auto;
-    display: grid;
+    display: flex;
+    /*display: grid;
     grid-template-columns: repeat(auto-fill,300px);
     justify-content: center;
-    grid-gap:90px;
+    grid-gap:90px;*/
    
 }
 .article1{
